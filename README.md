@@ -1,9 +1,9 @@
-# RepoName
+# LANDropLatest
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/LANDropLatest
 ```
 
 ## Notes
