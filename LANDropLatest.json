@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "description": "Gendloop's app",
+    "description": "跨平台局域网文件传输工具, 支持Windows, Linux, macOS等系统",
     "homepage": "https://github.com/gendloop/LANDropLatest",
     "license": "LGPL-2.1-or-later",
     "notes": [
